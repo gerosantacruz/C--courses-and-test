@@ -6,7 +6,16 @@ namespace BubbleSort
     {
         static void Main(string[] args)
         {
-            //dhfaousdhfaosidhfoñaishdfiashdfoahisdfiashdf
+            //an arrayt of number to be sorted
+            int[] nums = { 5, 6, 1, 3, 7, 2, 4, 8, 9 };
+
+            //Output the unsorted array to the console
+            Console.WriteLine("Before: 5, 6, 1, 3, 7, 2, 4, 8, 9");
+
+            //use this to know when to stop sorting
+            bool swapped;
+
+
         }
     }
 }
