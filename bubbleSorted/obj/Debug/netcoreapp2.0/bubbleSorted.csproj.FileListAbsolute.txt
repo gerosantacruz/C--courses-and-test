@@ -1,0 +1,11 @@
+C:\Users\Gero Santacruz\source\repos\C-courses-and-test\bubbleSorted\bin\Debug\netcoreapp2.0\bubbleSorted.deps.json
+C:\Users\Gero Santacruz\source\repos\C-courses-and-test\bubbleSorted\bin\Debug\netcoreapp2.0\bubbleSorted.runtimeconfig.json
+C:\Users\Gero Santacruz\source\repos\C-courses-and-test\bubbleSorted\bin\Debug\netcoreapp2.0\bubbleSorted.runtimeconfig.dev.json
+C:\Users\Gero Santacruz\source\repos\C-courses-and-test\bubbleSorted\bin\Debug\netcoreapp2.0\bubbleSorted.dll
+C:\Users\Gero Santacruz\source\repos\C-courses-and-test\bubbleSorted\bin\Debug\netcoreapp2.0\bubbleSorted.pdb
+C:\Users\Gero Santacruz\source\repos\C-courses-and-test\bubbleSorted\obj\Debug\netcoreapp2.0\bubbleSorted.csprojAssemblyReference.cache
+C:\Users\Gero Santacruz\source\repos\C-courses-and-test\bubbleSorted\obj\Debug\netcoreapp2.0\bubbleSorted.csproj.CoreCompileInputs.cache
+C:\Users\Gero Santacruz\source\repos\C-courses-and-test\bubbleSorted\obj\Debug\netcoreapp2.0\bubbleSorted.AssemblyInfoInputs.cache
+C:\Users\Gero Santacruz\source\repos\C-courses-and-test\bubbleSorted\obj\Debug\netcoreapp2.0\bubbleSorted.AssemblyInfo.cs
+C:\Users\Gero Santacruz\source\repos\C-courses-and-test\bubbleSorted\obj\Debug\netcoreapp2.0\bubbleSorted.dll
+C:\Users\Gero Santacruz\source\repos\C-courses-and-test\bubbleSorted\obj\Debug\netcoreapp2.0\bubbleSorted.pdb
